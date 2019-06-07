@@ -1640,8 +1640,8 @@ body {
 .cid-rsJePLFmvN {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #149dcc;
-  background: linear-gradient(45deg, #149dcc, #232323);
+  background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 .cid-rsJePLFmvN .media-container-row {
   flex-direction: row-reverse;
@@ -1666,6 +1666,7 @@ body {
 }
 .cid-rsJePLFmvN H3 {
   text-align: right;
+  color: #000000;
 }
 .cid-rsC197UFkP {
   padding-top: 90px;
